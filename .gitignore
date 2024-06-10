@@ -1,0 +1,4 @@
+.idea
+.env_blog
+.env
+db.sqlite
